@@ -1,0 +1,12 @@
+
+config:
+    name: 注册测试套件
+    variables:
+        p_account: ${ENV(username)}
+    base_url: ${ENV(base_url)}
+
+testcases:
+-
+    name: 测试用例test_regster.yml
+    testcase: testcases/testcase_regster.yml
+

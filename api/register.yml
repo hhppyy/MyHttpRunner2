@@ -1,0 +1,19 @@
+
+name: httprunnermanager平台注册接口
+
+
+request:
+    url: /api/register/
+    method: POST
+    headers:
+        Content-Type: "application/json"
+        User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+        X-Requested-With: XMLHttpRequest
+    json:
+        account: $p_account
+        email: "test11112@123.com"
+        password: '123123'
+        repassword: '123123'
+validate:
+    - eq: ["status_code", 200]
