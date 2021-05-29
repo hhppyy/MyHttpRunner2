@@ -8,5 +8,5 @@ config:
 testcases:
 -
     name: 测试用例test_regster.yml
-    testcase: testcases/testcase_regster.yml
+    testcase: testcases/testcase_register.yml
 
