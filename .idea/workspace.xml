@@ -25,11 +25,20 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbb0d3e6-88b4-480b-89b6-e71f65b11d7e" name="Default Changelist" comment="添加readme" />
+    <list default="true" id="fbb0d3e6-88b4-480b-89b6-e71f65b11d7e" name="Default Changelist" comment="添加readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -63,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622269078204</updated>
-      <workItem from="1622269080105" duration="2095000" />
+      <workItem from="1622269080105" duration="2434000" />
+      <workItem from="1622600506085" duration="4554000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme">
       <created>1622270993051</created>
@@ -72,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622270993051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加readme">
+      <created>1622271457553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622271457553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加readme">
+      <created>1622271469542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622271469543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,15 +124,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加readme" />
     <option name="LAST_COMMIT_MESSAGE" value="添加readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="181" key="Vcs.Push.Dialog.v2" timestamp="1622271009001">
+    <state x="722" y="181" key="Vcs.Push.Dialog.v2" timestamp="1622271478208">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="722" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1622271009001" />
+    <state x="722" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1622271478208" />
+    <state x="859" y="253" key="git4idea.merge.GitPullDialog" timestamp="1622271473383">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="859" y="253" key="git4idea.merge.GitPullDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1622271473383" />
   </component>
 </project>
